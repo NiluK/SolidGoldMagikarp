@@ -11,7 +11,7 @@ For more information see these blogposts:
 
 - [Mandatory Reading](#mandatory-reading)
   - [Text](#text)
-  
+
   <!-- - [Video](#video) -->
 
 ## Mandatory Reading
@@ -63,7 +63,7 @@ For more information see these blogposts:
       Overall, this paper introduced the Seq2Seq architecture and established it as a cornerstone of NLP research. The Seq2Seq architecture has been widely adopted and remains a popular choice for NLP tasks due to its simplicity, effectiveness, and versatility.
 
 
-  6. [The unreasonable effectiveness of Recurrent Neural Networks, Hochreiter & Schmidhuber (1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
+  6. [Long Short-term Memory, Hochreiter & Schmidhuber (1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
       The unreasonable effectiveness of Recurrent Neural Network" is a seminal paper in the field of machine learning published in 1997 by Hochreiter & Schmidhuber. The paper introduces the Long Short-Term Memory (LSTM) architecture, which is a type of recurrent neural network (RNN) designed for sequence modeling tasks such as machine translation and text generation.
 
