@@ -9,14 +9,14 @@ For more information see these blogposts:
 
 ## Contents (summaries via GPT-3)
 
-- [Mandatory Reading](#mandatory-reading)
-  - [Text](#text)
+- [Mandatory Papers](#mandatory-papers)
+  - [Large Language Models ](#large-language-models)
 
   <!-- - [Video](#video) -->
 
-## Mandatory Reading
+## Mandatory Papers
 
-  ### Text 
+  ### Large Language Models 
 
   Papers that are mandatory reading for anyone interested in LLM research. These papers are the foundation of the field and are the basis for many of the more recent papers.
 
