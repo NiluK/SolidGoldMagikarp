@@ -4,7 +4,7 @@ SolidGoldMagikarp is a collection of interesting posts, papers, and blog posts a
 
 For more information see these blogposts:
 
-- [SolidGoldMagikarp plus, prompt generation | Jessica Rumbelow, 2023-02-006](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)
+- [SolidGoldMagikarp plus, prompt generation | Jessica Rumbelow, 2023-02-06](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)
 - [SolidGoldMagikarp II: technical details and more recent findings](https://www.lesswrong.com/posts/Ya9LzwEbfaAMY8ABo/solidgoldmagikarp-ii-technical-details-and-more-recent)
 
 ## Contents (summaries via GPT-3)
