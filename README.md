@@ -1,6 +1,6 @@
 # SolidGoldMagikarp
 
-Solid AI is a collection of interesting posts, papers, and blog posts about various Artificial Intelligence models. The name stems from the intriguing fact that GPT-2 and GPT-3 models can be broken by specific prompts called anomalous tokens. This repository aims to be a starting point for those intersted in ML / AI research.
+SolidGoldMagikarp is a collection of interesting posts, papers, and blog posts about various Artificial Intelligence models. The name stems from the intriguing fact that GPT-2 and GPT-3 models can be broken by specific prompts called anomalous tokens. This repository aims to be a starting point for those intersted in ML / AI research.
 
 For more information see these blogposts:
 
