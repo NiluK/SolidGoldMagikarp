@@ -9,9 +9,12 @@ For more information see these blogposts:
 
 ## Contents (summaries via GPT-3)
 
-- [Mandatory Papers](#Mandatory Papers)
+- [Mandatory Reading](#mandatory-reading)
+  - [Text](#text)
+  
+  <!-- - [Video](#video) -->
 
-## Mandatory Papers
+## Mandatory Reading
 
   ### Text 
 
@@ -60,21 +63,21 @@ For more information see these blogposts:
       Overall, this paper introduced the Seq2Seq architecture and established it as a cornerstone of NLP research. The Seq2Seq architecture has been widely adopted and remains a popular choice for NLP tasks due to its simplicity, effectiveness, and versatility.
 
 
-    6. [The unreasonable effectiveness of Recurrent Neural Networks, Hochreiter & Schmidhuber (1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
+  6. [The unreasonable effectiveness of Recurrent Neural Networks, Hochreiter & Schmidhuber (1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
-        "The unreasonable effectiveness of Recurrent Neural Networks" is a seminal paper in the field of machine learning published in 1997 by Hochreiter & Schmidhuber. The paper introduces the Long Short-Term Memory (LSTM) architecture, which is a type of recurrent neural network (RNN) designed for sequence modeling tasks such as machine translation and text generation.
+      The unreasonable effectiveness of Recurrent Neural Network" is a seminal paper in the field of machine learning published in 1997 by Hochreiter & Schmidhuber. The paper introduces the Long Short-Term Memory (LSTM) architecture, which is a type of recurrent neural network (RNN) designed for sequence modeling tasks such as machine translation and text generation.
 
-        The key idea behind the LSTM architecture is the use of a memory cell, which is a vector that stores information about the input sequence. The LSTM architecture is trained to update the memory cell in a way that allows it to store information about the input sequence and use this information to generate the output sequence.
+      The key idea behind the LSTM architecture is the use of a memory cell, which is a vector that stores information about the input sequence. The LSTM architecture is trained to update the memory cell in a way that allows it to store information about the input sequence and use this information to generate the output sequence.
 
-    7. [Reinforcement Learning: An Introduction, Sutton & Barto (2018)](http://incompleteideas.net/book/the-book-2nd.html)
+  7. [Reinforcement Learning: An Introduction, Sutton & Barto (2018)](http://incompleteideas.net/book/the-book-2nd.html)
 
-        "Reinforcement Learning: An Introduction" is a book by Richard S. Sutton and Andrew G. Barto, first published in 2018, that provides an introduction to the field of reinforcement learning (RL). RL is a subfield of machine learning that deals with the problem of decision-making in an environment where an agent must learn from its own experiences to maximize a reward signal.
+      "Reinforcement Learning: An Introduction" is a book by Richard S. Sutton and Andrew G. Barto, first published in 2018, that provides an introduction to the field of reinforcement learning (RL). RL is a subfield of machine learning that deals with the problem of decision-making in an environment where an agent must learn from its own experiences to maximize a reward signal.
 
-        The book covers the fundamental concepts and algorithms of RL, including Markov decision processes, value functions, and policy gradient methods. The authors also discuss advanced topics, such as deep reinforcement learning, multi-agent RL, and inverse reinforcement learning.
+      The book covers the fundamental concepts and algorithms of RL, including Markov decision processes, value functions, and policy gradient methods. The authors also discuss advanced topics, such as deep reinforcement learning, multi-agent RL, and inverse reinforcement learning.
 
-        Throughout the book, the authors use concrete examples and intuitive explanations to make the concepts accessible to a wide audience. They also provide mathematical foundations and derivations to support the algorithms, making the book suitable for researchers and practitioners alike.
+      Throughout the book, the authors use concrete examples and intuitive explanations to make the concepts accessible to a wide audience. They also provide mathematical foundations and derivations to support the algorithms, making the book suitable for researchers and practitioners alike.
 
-        Overall, "Reinforcement Learning: An Introduction" is a comprehensive and accessible resource for anyone interested in learning about RL. The book has become a seminal reference in the field and is widely regarded as one of the best introductory texts on RL.
+      Overall, "Reinforcement Learning: An Introduction" is a comprehensive and accessible resource for anyone interested in learning about RL. The book has become a seminal reference in the field and is widely regarded as one of the best introductory texts on RL.
 
 
 
